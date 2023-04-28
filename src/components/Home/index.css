@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.home-container {
+  width: 100%;
+  padding: 50px;
+  font-family: Roboto;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+  width: 100%;
+}
+
+.loader {
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
